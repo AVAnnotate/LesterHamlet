@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "AVAnnotate",
+    "is_private": false,
+    "title": "Lester Hamlet in Depth",
+    "description": "This project aims to curate a comprehensive collection of films and interviews featuring one of Cuba’s most influential filmmakers of the 21st century. Within this archive, you will have access to a series of interviews conducted over the years as well as a freely available selection of his filmography. The objective is to provide a resource that deepens the understanding of his contributions to cinema both as an innovative filmmaker and as an individual.",
+    "language": "en",
+    "slug": "LesterHamlet",
+    "creator": "jackDeVry",
+    "authors": "Jack Devry Riordan",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-02-24T16:17:40.339Z",
+    "updated_at": "2025-02-24T16:17:40.339Z"
   }
 }
