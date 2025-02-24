@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-02-24T18:56:22.049Z",
+  "created_by": "jackDeVry",
+  "title": "Casa Vieja",
+  "slug": "casa-vieja",
+  "updated_at": "2025-02-24T18:56:22.049Z",
+  "updated_by": "jackDeVry",
+  "parent": "0544cc52-03c8-48f3-8d83-a22d46d23a84",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "32d4e0ff-9a27-4a9b-9507-a0add6b8776d"
+  }
+}
