@@ -1,5 +1,1248 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of Lester Hamlet"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jack Riordan",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8ea3e5be-83b2-436f-b9f3-b91888353a13"
+    },
+    {
+      "start_time": 41,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video clip of his first film \"Tres Veces Dos\" (2004)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clip"
+        },
+        {
+          "tag": "Tres Veces Dos",
+          "category": "Film"
+        }
+      ],
+      "uuid": "a165a948-d237-4fc5-a84a-7fb1c2e68054"
+    },
+    {
+      "start_time": 73,
+      "end_time": 114,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video clip of his second film \"Casa Vieja\" (2010)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clip"
+        },
+        {
+          "tag": "Casa Vieja",
+          "category": "Film"
+        }
+      ],
+      "uuid": "c2bf8e7b-7db7-4a88-ac27-f666bff58544"
+    },
+    {
+      "start_time": 114,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video clip of his third film \"Fábula\" (2011)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clip"
+        },
+        {
+          "tag": "Fábula",
+          "category": "Film"
+        }
+      ],
+      "uuid": "e9d17d06-085c-4656-ba92-d7e55304a1cb"
+    },
+    {
+      "start_time": 200,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conclusion of Lester Hamlet Introduction"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jack Riordan",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "79794109-49a5-4141-96fb-296298174c8a"
+    },
+    {
+      "start_time": 210,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Upbringing"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "c7aa86d9-8602-4b40-862b-a221355133c1"
+    },
+    {
+      "start_time": 210,
+      "end_time": 246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mariel's Exodus, also known as the Mariel Boatlift, was a mass migration of Cubans to the United States that took place between April and October 1980. It is named after the port of Mariel, located near Havana, Cuba, where thousands of Cubans boarded boats to leave the country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "b021f146-2ae7-4bca-803d-bd2738e1f150"
+    },
+    {
+      "start_time": 245,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video clip of his fourth film \"Ya no es antes\" (2016)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Clip"
+        },
+        {
+          "tag": "Ya no es antes",
+          "category": "Film"
+        }
+      ],
+      "uuid": "6747b229-67d8-455a-afb0-532d946667fd"
+    },
+    {
+      "start_time": 245,
+      "end_time": 300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the film \"Ya no es antes,\" the two main stars are Luis Alberto Garcia Jr. and Isabel Santos. Their on the screen chemistry is arguably one of the most iconic and well known love romances to exist in Cuban cinema. Their most well known examples are Fernando Pérez's 1989 Clandestinos, and the 1991 comedy Adorables Mentiras. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "74058e0b-bab1-4817-89db-4a770bc45b12"
+    },
+    {
+      "start_time": 325,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cecilia Valdés is one of the most iconic figures in Cuban literature and culture, originally the protagonist of the famous novel \"Cecilia Valdés or The Angel's Hill\" (\"Cecilia Valdés o La Loma del Ángel\") written by Cirilo Villaverde in 1839 (with a more complete version published in 1882)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "3d3a50c8-6180-43eb-bd04-f8873208ea43"
+    },
+    {
+      "start_time": 354,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In 1982, one of the most recognized Cuban filmmmakers of all time Humberto Solás premieres the film adaptation of Cecilia. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "0346858b-e00c-40be-be12-d8b3c44a76d4"
+    },
+    {
+      "start_time": 381,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Lucía\" is one of the most famous and critically acclaimed films in Cuban cinema history. It was directed by Humberto Solás — the same director who made Cecilia — and released in 1968."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "ce61eea3-f7b2-40ee-8f66-28fe19cf6d00"
+    },
+    {
+      "start_time": 325,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For Lester, the two Cuban films that had the most impact in his youth were Cecilia and Lucia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "d812095e-6494-4f2d-905e-2e1fd0e1c420"
+    },
+    {
+      "start_time": 394,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip of Ya no es antes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ya no es antes",
+          "category": "Film"
+        }
+      ],
+      "uuid": "46d93aaa-5483-4b35-b04f-7217167b82c6"
+    },
+    {
+      "start_time": 428,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester Hamlet talks about the problems of censorship, alluding to how a dictatorial political system creates a sort of self-censorship model because of personal safety. He believes the most severe form of censorship is the one inflicted personally. He admits to struggling to find the right balance of criticism of the government and keeping his job as a filmmaker."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Censorship",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a1d06864-5376-417b-bf46-8c0b12890474"
+    },
+    {
+      "start_time": 478,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The father of Arturo ( Played by Fernando Hechevarria) confeses to Arturo (Played by Carlos Luis González) how those who leave the island are \"bastards\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fábula",
+          "category": "Film"
+        }
+      ],
+      "uuid": "ddc3061d-ead7-45d6-9a3d-5167626bae59"
+    },
+    {
+      "start_time": 478,
+      "end_time": 547,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip follows up to the section of being critical of the Cuban government and the system in place, but from a nuanced perspective. This is a common approach for much of Cuban Cinema."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Censorship",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "21d6936d-0282-4c35-b8e0-264adb5eff5d"
+    },
+    {
+      "start_time": 555,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester Hamlet talking about the stages of film production in Cuba. Before a film is screened nationally, or showing on the local televisión, it has a vetting process from producers, politicians and executives. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Censorship",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "2a63d400-e047-401e-a04b-d8d1e1409815"
+    },
+    {
+      "start_time": 582,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the reasons that Lila is such an impactful part of Cuban film history is because the protagonist of the film, a young revolutionary member, turns out to be the villain. The anti-hero. For a film, that is produced and funded by the ICAIC, to openly paint or critize a revolutionary figure is powerful and shocking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tres Veces Dos",
+          "category": "Film"
+        },
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "446aefec-7304-445f-87f7-0462974677e6"
+    },
+    {
+      "start_time": 582,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Lester mentions Lila, he is refering to his part of the full movie Tres Veces Dos. Tres Veces Dos is split into 3 separate short films. The first part is done by Pavel Giroud, the second part by Lester Hamlet (Lila), and the third by Esteban Insausti. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tres Veces Dos",
+          "category": "Film"
+        },
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "1cf4537a-8c5a-46d3-af32-447be819f578"
+    },
+    {
+      "start_time": 782,
+      "end_time": 840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester speaks about the first time he left Cuba, and how he was banned from returning. Thus becoming a political exile. He states that this was when he really understood what communism was."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Immigration",
+          "category": "Theme"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "59dce903-5da3-49dd-9784-01cf30ad00b5"
+    },
+    {
+      "start_time": 818,
+      "end_time": 850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Cuba isn't a country. You can't understand Cuba, nor can you analyze Cuba as you would analyze a country, because in Cuba there is no freedoms. Cuba is a farm, with a group of owners who have schools that do not function, hospitals that do not work, services that they provide to a group of people who live in that farm, among them was myself.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "9eccc03b-6e35-4368-a5e8-007b8b401953"
+    },
+    {
+      "start_time": 850,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester feels that he wasted the best years of his life to Cuba, a failed and crumbling project. He hates that he "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "1a8d3cdc-2e71-494f-9f05-7d887fe56be7"
+    },
+    {
+      "start_time": 850,
+      "end_time": 909,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester Hamlet is an openly gay director and has been outspoken about how homosexuality was perceived and treated as a dissease in Cuba for many decades during the Revolution. Infamously in Cuba from 1965-1968 UMAP camps existed. These were a system to rehabilitate \"undesirable\" elements of society through \"productive\" labor, but in reality, it was a form of internment and punishment. Effectively placing artists and homosexuals in these camps with harsh living conditions and extreme physical and physological abuse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Homosexuality",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "2f10e40f-2782-4fc5-a29c-26c124127606"
+    },
+    {
+      "start_time": 974,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip from Fábula that touches on the topic of cheating and deceit. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fábula",
+          "category": "Film"
+        }
+      ],
+      "uuid": "902c255f-30c4-4e8c-95ae-85d030934a35"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Speaking about the crisis, the crisis of free speech and political prisoners. Lester speaks about how those who live in Cuba, aren't able to openly stating that there is a crisis. Even peacefully. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Censorship",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "09a4d7c8-7117-4e1c-9977-8cb7b71a8552"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester spoke with a friend recently an, who stated that it \"used to be better,\" with Lester asking when. Because he feels that Cuba has never felt or seen a moment of happiness or freedom. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "f0c09730-d73a-457b-886c-91cee1c02baf"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuba is a country which has had intense moments of major exoduses. The most notable one would be with the 1959 Cuban Revolution, which saw a large population of Cuba flee to the United States. This group of people were doctors, lawyers, scientists and other members of the higher class who benefited from the Batista Regime. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a645c605-b8e3-4be6-8bc6-95a0abd39280"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1205,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The largest migrant wave from Cuba is in the last 6 years, from 2019-Present, where Lester includes himself. He left Cuba in 2021 during the COVID-19 pandemic. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "8b922971-9a72-4836-bc50-2e163c786498"
+    },
+    {
+      "start_time": 1153,
+      "end_time": 1206,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over his speech criticism of how there wasn't really a moment of prosperity within Cuba, the Cuban National Anthem plays in the background. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "832080a6-30f3-4d13-ae7b-5ac7fb200d8b"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester mentions here how in Cuba, blaming the US Embargo for the bleak conditions of Cuba is a shield which is organized by the Cuban Government."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "631c829d-4671-4694-8f27-4aa6bf47d89d"
+    },
+    {
+      "start_time": 1240,
+      "end_time": 1252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The U.S. Cuba embargo, also known as \"el bloqueo\" in Cuba, is a series of economic sanctions and trade restrictions imposed by the United States on Cuba, beginning in 1960 during the Cold War. It was initiated in response to Cuba's nationalization of American-owned properties and its alignment with the Soviet Union, aiming to pressure the Cuban government into political change. The embargo limits U.S. businesses from trading with Cuba, restricts travel, and blocks financial transactions, though it allows some exceptions for humanitarian goods like food and medicine. Despite its long duration, the embargo remains a contentious issue, with debates over its effectiveness and impact on the Cuban people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "dbc507bf-8d41-425a-bdfd-89e54ff0f20f"
+    },
+    {
+      "start_time": 1283,
+      "end_time": 1372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip about trauma of losing someone who tried to reach the United States via a homemade Boat. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casa Vieja",
+          "category": "Film"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "377bf64a-95b8-44e0-829f-14aaecf0fcdd"
+    },
+    {
+      "start_time": 1373,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester critizing Fidel Castro. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "6e68bb59-e0d3-4dbf-9db5-70359400f827"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 86520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip from a documentary by ADN Cuba. It follows an unnamed man who openly criticizes Cuba and the communist regime. Declares himself someone who believed in the communist agenda, but after living it for centuries, hates it. Within the clips, you are presented with several people who express their difficulties. Food, clean water, medicine, etc."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "cef4260b-1092-4dd3-948d-5419b59e78f8"
+    },
+    {
+      "start_time": 86700,
+      "end_time": 87900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester Hamlet mentions Cubas new president, Miguel Díaz-Canel. Expresses that he has no followers, no one elected him, he has no natural leadership. He was placed there to contain the goods of others. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "cf6a0b71-f7e7-40c1-858d-8f020957773c"
+    },
+    {
+      "start_time": 86700,
+      "end_time": 87900,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miguel Díaz-Canel is the President of Cuba, having assumed the role on April 19, 2018, as the first non-Castro leader in nearly six decades. Born in 1960, he rose through the ranks of the Communist Party, serving as First Vice President under Raúl Castro before succeeding him. While he represents a generational shift, Díaz-Canel has largely maintained Cuba's socialist policies amid ongoing economic challenges and U.S. sanctions. His leadership faces scrutiny for handling protests and calls for reform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Miguel Díaz-Canel",
+          "category": "Theme"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Historical background"
+        }
+      ],
+      "uuid": "9ed35b9c-950f-47fd-a562-02b80e96d64c"
+    },
+    {
+      "start_time": 97200,
+      "end_time": 97560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester states how being an island is a cursed situation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "38fb66c8-7a48-4ade-813b-9dbb1f749099"
+    },
+    {
+      "start_time": 98640,
+      "end_time": 99000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester calls the current situation in Cuba as the Castro Show, referencing the famous Jim Carrey movie the Truman Show. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Fidel Castro",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "8bcdcb9d-5bc0-4b39-9e35-409599db9e78"
+    },
+    {
+      "start_time": 108000,
+      "end_time": 108720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester states about the beauty of cinema, and how how relieved he is to be in a country where there aren't censorship within cinema. One of the parts that scared and worried Lester was being an openly gay filmmaker and touching on LGBTQ topics. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Homosexuality",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Censorship",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "ab7e0168-b694-433d-b298-38e90f368f99"
+    },
+    {
+      "start_time": 108000,
+      "end_time": 108720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuba's homophobic past stems from post-revolutionary policies under Fidel Castro, where homosexuality was viewed as counterrevolutionary and \"bourgeois.\" In the 1960s and 70s, gay individuals faced persecution, including forced labor camps like the UMAP (Military Units to Aid Production) and widespread discrimination. While attitudes have softened since the 1990s, with legal reforms and public apologies from figures like Raúl Castro, Cuba's history of state-sponsored homophobia remains a dark chapter. Progress, such as legalizing same-sex marriage in 2022, reflects a slow shift."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Fidel Castro",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "5e4f5215-b07e-4003-8be2-7e99343052b2"
+    },
+    {
+      "start_time": 108720,
+      "end_time": 115800,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip of Casa Vieja talking abour regret of not speaking out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Casa Vieja",
+          "category": "Film"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "a2fd5be9-e317-4da5-af0b-907379bb9203"
+    },
+    {
+      "start_time": 116220,
+      "end_time": 121200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester speaks about the power of Cuban filmmakers who have left Cuba. Stating that the films and the art that is going to be created, will hopefully impact Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Censorship",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Immigration",
+          "category": "Theme"
+        }
+      ],
+      "uuid": "d23995bb-dd3b-4744-a855-25910d809f79"
+    },
+    {
+      "start_time": 121800,
+      "end_time": 122160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester says \"Cuba hurts, and I don't know how to save it\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "746d2eb2-9403-4cb3-ac96-f009158b360a"
+    },
+    {
+      "start_time": 123000,
+      "end_time": 124020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester emphasizes that no country under communism can work, and Cuba and history as proved that. He critiquizes all those artist and political activists who are currently in prison for criticizing Cuba. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Communism",
+          "category": "Theme"
+        },
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Historical Background",
+          "category": "Relevant Background"
+        }
+      ],
+      "uuid": "a5121cf1-6f08-488e-a74d-6bede440f918"
+    },
+    {
+      "start_time": 124020,
+      "end_time": 128220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clip of Ya no es antes touching on feeling nostalgia for Cuba, but understanding the bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ya no es antes",
+          "category": "Film"
+        }
+      ],
+      "uuid": "7d1d7722-5d4d-416c-b55b-2de6bfac608a"
+    },
+    {
+      "start_time": 128580,
+      "end_time": 131220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester is asked about why do all his films touch on the topic of romance, and he speaks on this. People need love. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "078fb638-ba2c-4eb1-b6d2-0eaabb230917"
+    },
+    {
+      "start_time": 130800,
+      "end_time": 132300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Clips of Lester during production of his films. He speaks about how much he misses that world and is looking forward to making films in the United States."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "470f900c-0fe3-4106-8296-7b3e57bafbf5"
+    },
+    {
+      "start_time": 135600,
+      "end_time": 137880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester argues that Cuban cinema cannot only be political, cinema is a powerful tool and topics like love and passion deserve a place."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuban Film Background",
+          "category": "Relevant Background"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "f2f33739-d522-493a-8379-711889f6f7cd"
+    },
+    {
+      "start_time": 144000,
+      "end_time": 146760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lester states how the United States never promised him anything, but Cuba, it did and has failed him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Cuba Critique",
+          "category": "Theme"
+        },
+        {
+          "tag": "Lester Hamlet",
+          "category": "Speaker"
+        }
+      ],
+      "uuid": "a1b6d82b-7f2a-4a1e-979d-a92843e721a5"
+    }
+  ],
   "set": "Default",
   "event_id": "15b27ee2-c7f8-412c-abdd-7ef6c01e4dd6",
   "source_id": "66c0a671-e326-49f6-a2ee-d764d8b09556"
