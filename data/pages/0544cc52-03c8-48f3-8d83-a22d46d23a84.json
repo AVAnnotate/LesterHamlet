@@ -1,9 +1,28 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "image",
+      "url": "https://gdb.martinoticias.com/01000000-0a00-0242-33b9-08dc1ddb8cf5_w1023_r1_s.png",
+      "size": "full",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-02-24T16:17:40.358Z",
   "created_by": "jackDeVry",
   "title": "Lester Hamlet in Depth",
-  "updated_at": "2025-04-01T13:21:49.553Z",
+  "updated_at": "2025-04-01T13:33:07.483Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
