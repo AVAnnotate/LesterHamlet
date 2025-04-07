@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Here is a test of two clips from two separate interviews!"
         }
       ]
     },
@@ -43,14 +43,14 @@
       ]
     }
   ],
-  "title": "Love and Romance within Cinema",
+  "title": "Love and Romance within Cinema (TEST Comparison)",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "love-and-romance-within-cinema",
+  "slug": "love-and-romance-within-cinema-test-comparis",
   "created_at": "2025-04-07T15:53:10.304Z",
   "created_by": "jackDeVry",
-  "updated_at": "2025-04-07T16:24:57.754Z",
+  "updated_at": "2025-04-07T16:25:37.121Z",
   "updated_by": "jackDeVry"
 }
