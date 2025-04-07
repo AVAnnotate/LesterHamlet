@@ -74,10 +74,7 @@
       "type": "event",
       "uuid": "1c2b82b1-bb67-4006-ae0d-4eaf6560e98a",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -105,10 +102,7 @@
       "type": "event",
       "uuid": "f6937a03-2dd4-4b00-9d1a-609b20dcbaf9",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "media"
       ],
       "children": [
         {
@@ -159,7 +153,7 @@
   "created_at": "2025-02-24T16:17:40.358Z",
   "created_by": "jackDeVry",
   "title": "Lester Hamlet in Depth",
-  "updated_at": "2025-04-07T17:43:35.045Z",
+  "updated_at": "2025-04-07T18:39:10.832Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
