@@ -46,11 +46,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The best way to utilize this project is to: ",
+          "text": "The best way to utilize this project is: ",
           "bold": true
         },
         {
-          "text": "first watch both of Lester Hamlet’s available films and then proceed to his most recent interview with Jack Riordan. Lester Hamlet’s debut film, Tres Veces Dos, is a full-length feature that showcases three short films by emerging Cuban filmmakers of the early 2000s: Pavel Giroud, Lester Hamlet, and Esteban Insausti. Each of these directors would later achieve national and international recognition, becoming award-winning filmmakers celebrated around the world."
+          "text": "first watch both of Lester Hamlet’s available films and then proceed to his most recent interview with Jack Riordan. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Lester Hamlet’s debut film, Tres Veces Dos, is a full-length feature that showcases three short films by emerging Cuban filmmakers of the early 2000s: Pavel Giroud, Lester Hamlet, and Esteban Insausti. Each of these directors would later achieve national and international recognition, becoming award-winning filmmakers celebrated around the world."
         }
       ]
     },
@@ -151,7 +159,7 @@
   "created_at": "2025-02-24T16:17:40.358Z",
   "created_by": "jackDeVry",
   "title": "Lester Hamlet in Depth",
-  "updated_at": "2025-04-07T17:25:18.883Z",
+  "updated_at": "2025-04-07T17:43:35.045Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
