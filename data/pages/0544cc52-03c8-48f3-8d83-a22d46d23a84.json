@@ -18,8 +18,16 @@
     },
     {
       "type": "image",
-      "url": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1639667742-apuesta-lester-hamlet-nuevo-tipo-telenovela-cub.jpg",
+      "url": "https://minio.la.utexas.edu/colaweb-prod/lri/mellon-high-impact-scholars/scholars/bor_2473_6467_YmZkNQ.jpg",
       "size": "large",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -38,16 +46,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Roadmap to best utilize this project, is to watch both of the available films, and then proceed to watch his most recent interview with Jack Riordan. ",
+          "text": "The best way to utilize this project is to: ",
           "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
-          "text": "Lester Hamlet's first film is titled Tres Veces Dos, is a full feature film which features 3 short films by up and coming Cuban filmmakers of the early 2000's. Pavel Giroud, Lester Hamlet, and Esteban Insausti. All of these actors would go on to become award winning and globally recognized filmmakers nationally and internationally. "
+          "text": "first watch both of Lester Hamlet’s available films and then proceed to his most recent interview with Jack Riordan. Lester Hamlet’s debut film, Tres Veces Dos, is a full-length feature that showcases three short films by emerging Cuban filmmakers of the early 2000s: Pavel Giroud, Lester Hamlet, and Esteban Insausti. Each of these directors would later achieve national and international recognition, becoming award-winning filmmakers celebrated around the world."
         }
       ]
     },
@@ -148,7 +151,7 @@
   "created_at": "2025-02-24T16:17:40.358Z",
   "created_by": "jackDeVry",
   "title": "Lester Hamlet in Depth",
-  "updated_at": "2025-04-01T13:49:19.432Z",
+  "updated_at": "2025-04-07T17:25:18.883Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
