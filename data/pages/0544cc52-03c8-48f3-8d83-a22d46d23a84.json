@@ -18,7 +18,7 @@
     },
     {
       "type": "image",
-      "url": "https://minio.la.utexas.edu/colaweb-prod/lri/mellon-high-impact-scholars/scholars/bor_2473_6467_YmZkNQ.jpg",
+      "url": "https://habanerofilmsales.com/wp-content/uploads/2013/03/bahia-otherangle.jpeg",
       "size": "large",
       "children": [
         {
@@ -38,7 +38,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "(Image 2021)"
+          "text": "(Image of Fábula )"
         }
       ]
     },
@@ -46,7 +46,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The best way to utilize this project is: ",
+          "text": "Roadmap for Project: ",
           "bold": true
         },
         {
@@ -99,6 +99,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "event",
       "uuid": "f6937a03-2dd4-4b00-9d1a-609b20dcbaf9",
       "includes": [
@@ -122,7 +130,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "After watching the films, the Jack Riordan Interview is the next step!"
+          "text": "After watching 2 of Lester Hamlet's most well-known films, the interview with Jack Riordan is the one that best provides valuable insight into Lester Hamlet's current relationship with Cuba as an artistic exile. He opens up about the role of censorship in Cuba while he lived there, his inspirations for becoming a filmmaker, the current geopolitical situation in Cuba, and much more. "
         }
       ]
     },
@@ -148,12 +156,78 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://www.radiohc.cu/articles/2412-ya-no-es-antes.jpg",
+      "size": "large",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-02-24T16:17:40.358Z",
   "created_by": "jackDeVry",
   "title": "Lester Hamlet in Depth",
-  "updated_at": "2025-04-07T18:39:10.832Z",
+  "updated_at": "2025-04-09T22:46:49.309Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
