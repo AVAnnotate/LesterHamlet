@@ -13,7 +13,6 @@
       "uuid": "7cc5d460-bdb1-4327-9349-abd682336e73",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +34,7 @@
   "created_by": "jackDeVry",
   "title": "Interview with Yadira Otero - Excelencias / Entrevista con Yadira Otero - Excelencias (2017)",
   "slug": "interview-with-yadira-otero-excelencias-e",
-  "updated_at": "2025-04-10T18:05:20.229Z",
+  "updated_at": "2025-04-10T18:10:36.499Z",
   "updated_by": "jackDeVry",
   "parent": "0544cc52-03c8-48f3-8d83-a22d46d23a84",
   "autogenerate": {
