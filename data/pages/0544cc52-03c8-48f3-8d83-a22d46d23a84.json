@@ -57,7 +57,8 @@
         {
           "text": "(Image of Fábula )"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -382,7 +383,7 @@
   "created_at": "2025-02-24T16:17:40.358Z",
   "created_by": "jackDeVry",
   "title": "Lester Hamlet in Depth",
-  "updated_at": "2025-04-10T17:37:42.025Z",
+  "updated_at": "2025-04-10T18:09:04.937Z",
   "updated_by": "jackDeVry",
   "autogenerate": {
     "enabled": false,
