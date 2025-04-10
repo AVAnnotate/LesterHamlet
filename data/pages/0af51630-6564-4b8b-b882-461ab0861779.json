@@ -1,1 +1,46 @@
-{"content":[],"created_at":"2025-03-27T19:28:14.011Z","created_by":"jackDeVry","title":"Interview with Yadira Otero - Excelencias / Entrevista con Yadira Otero - Excelencias (2017)","slug":"interview-with-yadira-otero-excelencias-e","updated_at":"2025-03-27T19:28:14.011Z","updated_by":"jackDeVry","parent":"0544cc52-03c8-48f3-8d83-a22d46d23a84","autogenerate":{"enabled":true,"type":"event","type_id":"7cc5d460-bdb1-4327-9349-abd682336e73"}}
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "7cc5d460-bdb1-4327-9349-abd682336e73",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-03-27T19:28:14.011Z",
+  "created_by": "jackDeVry",
+  "title": "Interview with Yadira Otero - Excelencias / Entrevista con Yadira Otero - Excelencias (2017)",
+  "slug": "interview-with-yadira-otero-excelencias-e",
+  "updated_at": "2025-04-10T18:05:20.229Z",
+  "updated_by": "jackDeVry",
+  "parent": "0544cc52-03c8-48f3-8d83-a22d46d23a84",
+  "autogenerate": {
+    "enabled": false,
+    "type": "event",
+    "type_id": "7cc5d460-bdb1-4327-9349-abd682336e73"
+  }
+}
