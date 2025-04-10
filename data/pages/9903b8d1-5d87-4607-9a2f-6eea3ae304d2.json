@@ -13,7 +13,6 @@
       "uuid": "f6937a03-2dd4-4b00-9d1a-609b20dcbaf9",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +34,7 @@
   "created_by": "jackDeVry",
   "title": "Full Film / Película Completa - Casa Vieja (2010)",
   "slug": "full-film-pelicula-completa-casa-vieja-2",
-  "updated_at": "2025-04-10T18:05:55.736Z",
+  "updated_at": "2025-04-10T18:10:56.975Z",
   "updated_by": "jackDeVry",
   "parent": "0544cc52-03c8-48f3-8d83-a22d46d23a84",
   "autogenerate": {
