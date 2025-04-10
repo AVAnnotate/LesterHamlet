@@ -13,7 +13,6 @@
       "uuid": "a031b4d1-6a6f-408f-bfe3-8ec46ad9d6bf",
       "includes": [
         "media",
-        "annotations",
         "description"
       ],
       "children": [
@@ -35,7 +34,7 @@
   "created_by": "jackDeVry",
   "title": "Interview on \"En el marco de Marcos\" Chanel / Entrevista en el canel \"En el marco de Marcos\" (2024)",
   "slug": "interview-on-en-el-marco-de-marcos-chane-2",
-  "updated_at": "2025-04-10T18:05:25.973Z",
+  "updated_at": "2025-04-10T18:11:15.432Z",
   "updated_by": "jackDeVry",
   "parent": "0544cc52-03c8-48f3-8d83-a22d46d23a84",
   "autogenerate": {
