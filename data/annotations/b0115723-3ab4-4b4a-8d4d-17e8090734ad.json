@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is one of the most well-known and respected interview series within Cuba. Excelencias has interviewed great filmmakers like Fernando Pérez, Gloria Roland, Ernesto Daranas, and much more."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7ee6ee77-6da3-42ef-81fc-90ea6350a5a0"
+    }
+  ],
   "set": "Default",
   "event_id": "7cc5d460-bdb1-4327-9349-abd682336e73",
   "source_id": "cda8c07a-7c95-4d2f-a560-300c30c59968"
