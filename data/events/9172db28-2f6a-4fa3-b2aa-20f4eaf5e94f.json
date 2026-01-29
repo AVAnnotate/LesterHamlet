@@ -1,0 +1,27 @@
+{
+  "audiovisual_files": {
+    "ecca8990-735f-4c35-af53-880fdfeec2a9": {
+      "label": "auto",
+      "file_url": "https://media.dlib.indiana.edu/master_files/x633fq23z/auto.m3u8",
+      "duration": 4320,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-01-29T15:26:26.303Z",
+  "created_by": "jackDeVry",
+  "label": "Q&A with retired Archivist of the United States David Ferriero",
+  "updated_at": "2026-01-29T15:26:26.303Z",
+  "updated_by": "jackDeVry",
+  "rights_statement": ""
+}
