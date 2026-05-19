@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-05-19T16:31:27.851Z",
+  "created_by": "jackDeVry",
+  "title": "Documental de Daniel",
+  "slug": "documental-de-daniel",
+  "updated_at": "2026-05-19T16:31:27.851Z",
+  "updated_by": "jackDeVry",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "f135ef9b-8738-46d8-9101-4cb5f299095f"
+  }
+}

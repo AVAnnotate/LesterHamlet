@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "609b61c5-0d2a-4b33-aefe-a78c90cca4fa": {
+      "label": "Documental con Dani",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://ia801300.us.archive.org/31/items/steamboat-willie_1928/steamboat-willie_1928.mp4",
+      "duration": 461,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Documental de Daniel",
+  "av_file_order": [
+    "609b61c5-0d2a-4b33-aefe-a78c90cca4fa"
+  ],
+  "created_at": "2026-05-19T16:31:25.655Z",
+  "created_by": "jackDeVry",
+  "updated_at": "2026-05-19T16:31:25.655Z",
+  "updated_by": "jackDeVry"
+}
